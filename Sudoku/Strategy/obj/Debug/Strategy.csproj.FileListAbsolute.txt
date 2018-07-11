@@ -1,0 +1,10 @@
+C:\Users\Deverl\source\repos\Sudoku\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\Deverl\source\repos\Sudoku\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Deverl\source\repos\Sudoku\Strategy\bin\Debug\Strategy.dll.config
+C:\Users\Deverl\source\repos\Sudoku\Strategy\bin\Debug\Strategy.dll
+C:\Users\Deverl\source\repos\Sudoku\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Deverl\source\repos\Sudoku\Strategy\obj\Debug\Strategy.dll
+C:\Users\Deverl\source\repos\Sudoku\Strategy\obj\Debug\Strategy.pdb
+C:\Users\Deverl\source\repos\Sudoku\Strategy\bin\Debug\Board.dll
+C:\Users\Deverl\source\repos\Sudoku\Strategy\bin\Debug\Board.pdb
+C:\Users\Deverl\source\repos\Sudoku\Strategy\bin\Debug\Board.dll.config

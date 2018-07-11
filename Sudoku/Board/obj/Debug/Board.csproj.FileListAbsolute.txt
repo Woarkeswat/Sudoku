@@ -1,0 +1,7 @@
+C:\Users\Deverl\source\repos\Sudoku\Board\obj\Debug\Board.csprojResolveAssemblyReference.cache
+C:\Users\Deverl\source\repos\Sudoku\Board\obj\Debug\Board.csproj.CoreCompileInputs.cache
+C:\Users\Deverl\source\repos\Sudoku\Board\bin\Debug\Board.dll.config
+C:\Users\Deverl\source\repos\Sudoku\Board\bin\Debug\Board.dll
+C:\Users\Deverl\source\repos\Sudoku\Board\bin\Debug\Board.pdb
+C:\Users\Deverl\source\repos\Sudoku\Board\obj\Debug\Board.dll
+C:\Users\Deverl\source\repos\Sudoku\Board\obj\Debug\Board.pdb

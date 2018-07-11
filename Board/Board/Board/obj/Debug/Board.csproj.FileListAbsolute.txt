@@ -1,0 +1,7 @@
+C:\Users\Shimin\OneDrive\Documents\tmp\Board\Board\Board\bin\Debug\Board.exe.config
+C:\Users\Shimin\OneDrive\Documents\tmp\Board\Board\Board\bin\Debug\Board.exe
+C:\Users\Shimin\OneDrive\Documents\tmp\Board\Board\Board\bin\Debug\Board.pdb
+C:\Users\Shimin\OneDrive\Documents\tmp\Board\Board\Board\obj\Debug\Board.csprojResolveAssemblyReference.cache
+C:\Users\Shimin\OneDrive\Documents\tmp\Board\Board\Board\obj\Debug\Board.csproj.CoreCompileInputs.cache
+C:\Users\Shimin\OneDrive\Documents\tmp\Board\Board\Board\obj\Debug\Board.exe
+C:\Users\Shimin\OneDrive\Documents\tmp\Board\Board\Board\obj\Debug\Board.pdb

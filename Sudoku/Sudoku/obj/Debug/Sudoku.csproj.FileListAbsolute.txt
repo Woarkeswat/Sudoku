@@ -1,0 +1,13 @@
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\bin\Debug\Board.dll
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\bin\Debug\Board.pdb
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\bin\Debug\Board.dll.config
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\bin\Debug\Strategy.dll
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\bin\Debug\Strategy.pdb
+C:\Users\Deverl\source\repos\Sudoku\Sudoku\bin\Debug\Strategy.dll.config
